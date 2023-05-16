@@ -1,0 +1,19 @@
+id: I7F826AFE
+default_language: en
+source: https://www.lotsawahouse.org
+initial_creation_type: web_scrap
+imported: 2023-01-04 11:31:08.000518
+last_modified: 2023-01-04 11:31:08.000533
+source_metadata:
+  collections:
+  - Chatral Rinpoche
+  - Works of Tibetan Masters
+bases:
+  ED87:
+    title: 'The Condensed Essence: A Daily Practice of the Wrathful Guru Takhyung
+      Barwa'
+    base_file: ED87.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
